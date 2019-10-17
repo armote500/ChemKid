@@ -1,4 +1,4 @@
-# ChemKid Plugins
+# ChemKid Plugins and Blockly Sample
 *Photonics Technology Laboratory (PHT), NECTEC, NSTDA, THAILAND*
 *Version: 1.03*
 *Updated: 2019-01-12*
