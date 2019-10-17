@@ -1,0 +1,2 @@
+# ChemKid
+ChemKid Plugins
