@@ -1,4 +1,4 @@
-# ChemKid Plugins and Blockly Samples
+# ChemKid Plugins and Blockly Samples #
 -By: Armote Somboonkaew
 -Contact: armote@nectec.or.th
 
