@@ -1,5 +1,5 @@
 # ChemKid Plugins and Blockly Samples
-*Photonics Technology Laboratory (PHT), NECTEC
+Photonics Technology Laboratory (PHT), NECTEC
 Version: 1.03
 Updated: 2019-01-12
 By: Armote Somboonkaew
