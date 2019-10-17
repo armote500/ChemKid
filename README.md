@@ -1,9 +1,9 @@
-# ChemKid Plugins and Blockly Samples #
+# ChemKid Plugins and Blockly Samples for KidBright IDE
 By: Armote Somboonkaew, armote@nectec.or.th
 
-**Plugins for Adding to KidBright IDE**
+**Plugins**
 - ChemKidPlugins.zip (Version: 1.03, Updated: 2019-01-12)
 
-**Blockly Samples**
+**Samples**
 - Block1 - pH.bin
 - Block2 - Chlorine.bin
