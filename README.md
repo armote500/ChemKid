@@ -1,6 +1,5 @@
 # ChemKid Plugins and Blockly Samples #
-**Development**
-- By: Armote Somboonkaew, armote@nectec.or.th
+By: Armote Somboonkaew, armote@nectec.or.th
 
 **Plugins for Adding to KidBright IDE**
 - ChemKidPlugins.zip (Version: 1.03, Updated: 2019-01-12)
