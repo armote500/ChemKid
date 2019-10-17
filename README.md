@@ -7,11 +7,8 @@
 
 ### โมดูล Plugins สำหรับเครื่องอ่านสีสารละลาย ChemKid และตัวอย่าง Blockly Code ต่างๆ
 **Plugins**
-- ติดตั้ง KidBright IDE (NEW UI, 64 bit)
-- เปิดโปรแกรม KidBright IDE
-- เลือก Plugins ที่แถบเครื่องมือด้านซ้ายแล้วนำ ChemKid ไปวางในพื้นที่ที่ใช้เขียนโปรแกรม
-- โปรแกรมโดยใช้ Block ต่างๆ ใน KidBright IDE มาร่วมเชื่อมต่อกันเป็นการประยุกต์ต่างๆ ได้ตามต้องการ
+- ChemKidPlugins.zip
 
 **Blockly Code - Samples**
-- Block1 - pH
-- Block2 - Chlorine
+- Block1 - pH.bin
+- Block2 - Chlorine.bin
