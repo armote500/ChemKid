@@ -1,4 +1,4 @@
-# ChemKid Plugins and Blockly Samples for KidBright IDE
+# ChemKid - Plugins and Blockly Samples for KidBright IDE
 By: Armote Somboonkaew, armote@nectec.or.th
 
 **Plugins**
