@@ -4,6 +4,6 @@ By: Armote Somboonkaew, armote@nectec.or.th
 **Plugins**
 - ChemKidPlugins.zip (Version: 1.03, Updated: 2019-01-12)
 
-**Samples**
+**samples.zip**
 - Block1 - pH.bin
 - Block2 - Chlorine.bin
