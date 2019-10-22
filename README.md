@@ -2,5 +2,5 @@
 By: Armote Somboonkaew, armote@nectec.or.th
 
 **Samples.zip**
-- Block1 - pH.bin
-- Block2 - Chlorine.bin
+- ตัวอย่าง Coding Chlorine (Para).bin
+- ตัวอย่าง Coding pH (Marine).bin
